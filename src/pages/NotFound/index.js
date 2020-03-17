@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NotFound() {
+const NotFound = () => {
     return(
         <h2>404. Página não encontrada</h2>
     )
